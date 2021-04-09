@@ -43,7 +43,7 @@ public class TestMVPActivity extends AppCompatActivity implements TestView {
         Toast.makeText(this, msg, Toast.LENGTH_SHORT).show();
     }
 //    private void login(User user) {
-//        if ("chenjialing".equals(user.getUserName())&&"123456".equals(user.getPassword())){
+//        if ("Liuyibing".equals(user.getUserName())&&"123456".equals(user.getPassword())){
 //            Toast.makeText(this, "登录成功", Toast.LENGTH_SHORT).show();
 //        }
 //        else{
